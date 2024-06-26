@@ -2,10 +2,12 @@
 AI publication at Nature and Science
 # Nature
 []()
+[24.06 - Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
 [24.06 - Multimodal fusion for anticipating human decision performance](https://www.nature.com/articles/s41598-024-63651-2)  
 [24.06 - A virtual rodent predicts the structure of neural activity across behaviors](https://www.nature.com/articles/s41586-024-07633-4)  
 [24.06 - Experiment-free exoskeleton assistance via learning in simulation](https://www.nature.com/articles/s41586-024-07382-4)  
 [24.06 - A Multimodal Generative AI Copilot for Human Pathology](https://www.nature.com/articles/s41586-024-07618-3)  
+[24.05 - Temporal multiplexing of perception and memory codes in IT cortex](https://www.nature.com/articles/s41586-024-07349-5)
 [24.05 - A vision chip with complementary pathways for open-world sensing](https://www.nature.com/articles/s41586-024-07358-4)  
 [24.05 - Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)  
 [24.05 - ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding](https://www.nature.com/articles/s41597-024-03398-7)  
