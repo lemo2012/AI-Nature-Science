@@ -3,6 +3,7 @@ AI publication at Nature and Science
 # Nature
 []()
 [24.06 - Multimodal fusion for anticipating human decision performance](https://www.nature.com/articles/s41598-024-63651-2)
+
 [24.06 - A virtual rodent predicts the structure of neural activity across behaviors](https://www.nature.com/articles/s41586-024-07633-4)
 [24.06 - Experiment-free exoskeleton assistance via learning in simulation](https://www.nature.com/articles/s41586-024-07382-4)
 [24.06 - A Multimodal Generative AI Copilot for Human Pathology](https://www.nature.com/articles/s41586-024-07618-3)
