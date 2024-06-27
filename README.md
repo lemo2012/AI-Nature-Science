@@ -1,9 +1,8 @@
 # AI-Nature-Science
 AI publication at Nature and Science
 # Nature
-[]()
-[]()
-[24.07 - Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
+[]()  
+[]()  
 [24.06 - Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)  
 [24.06 - Multimodal fusion for anticipating human decision performance](https://www.nature.com/articles/s41598-024-63651-2)  
 [24.06 - A virtual rodent predicts the structure of neural activity across behaviors](https://www.nature.com/articles/s41586-024-07633-4)  
