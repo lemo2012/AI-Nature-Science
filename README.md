@@ -6,7 +6,7 @@ AI publication at Nature and Science
 [24.06 - Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)  
 [24.06 - Multimodal fusion for anticipating human decision performance](https://www.nature.com/articles/s41598-024-63651-2)  
 [24.06 - A virtual rodent predicts the structure of neural activity across behaviors](https://www.nature.com/articles/s41586-024-07633-4)  
-[19.12,ICLR 2020 - Deep neuroethology of a virtual rodent](https://openreview.net/forum?id=SyxrxR4KPS)
+[19.12,ICLR 2020 - Deep neuroethology of a virtual rodent](https://openreview.net/forum?id=SyxrxR4KPS)  
 [24.06 - Experiment-free exoskeleton assistance via learning in simulation](https://www.nature.com/articles/s41586-024-07382-4)  
 [24.06 - A Multimodal Generative AI Copilot for Human Pathology](https://www.nature.com/articles/s41586-024-07618-3)  
 [24.05 - Temporal multiplexing of perception and memory codes in IT cortex](https://www.nature.com/articles/s41586-024-07349-5)  
