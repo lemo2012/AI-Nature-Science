@@ -41,6 +41,7 @@ AI publication at Nature and Science
 []()
 [24.02 - Grounded language acquisition through the eyes and ears of a single child](https://www.science.org/doi/10.1126/science.adi1374)  
 [23.11 - Prediction-powered inference](https://www.science.org/doi/10.1126/science.adi6000)  
+[22.12 - Competition-level code generation with AlphaCode](https://www.science.org/doi/10.1126/science.abq1158)  
 [22.07 - Scaffolding protein functional sites using deep learning](https://www.science.org/doi/10.1126/science.abn2100)  
 [19.07 - Superhuman AI for multiplayer poker](https://www.science.org/doi/10.1126/science.aay2400)  
 [19.05 - Neural population control via deep image synthesis](https://www.science.org/doi/10.1126/science.aav9436)  
