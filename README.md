@@ -4,10 +4,7 @@ AI publication at Nature and Science
 []() 
 [25.04 - Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7)  
 [25.04 - Towards accurate differential diagnosis with large language models](https://www.nature.com/articles/s41586-025-08869-4)  
-[25.03 - Optimizing generative AI by backpropagating language model feedback]([https](https://www.nature.com/articles/s41586-025-08661-4)  
-
 [25.03 - Optimizing generative AI by backpropagating language model feedback](https://www.nature.com/articles/s41586-025-08661-4)
-
 [25.01 - Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)  
 [24.06 - Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)  
 [24.06 - Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)  
