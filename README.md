@@ -23,6 +23,7 @@ AI publication at Nature and Science
 [23.07 - Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3)  
 [23.07 - Heat-assisted detection and ranging](https://www.nature.com/articles/s41586-023-06174-6)  
 [23.05 - Algorithm for optimized mRNA design improves stability and immunogenicity](https://www.nature.com/articles/s41586-023-06127-z)  
+[23.01 - Spontaneous behaviour is structured by reinforcement without explicit reward](https://www.nature.com/articles/s41586-022-05611-2) 
 [22.01 - Deep physical neural networks trained with backpropagation](https://www.nature.com/articles/s41586-021-04223-6)  
 [21.07 - Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)  
 [20.09 - Illuminating the dark spaces of healthcare with ambient intelligence](https://www.nature.com/articles/s41586-020-2669-y)  
