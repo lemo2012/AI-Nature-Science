@@ -2,6 +2,7 @@
 AI publication at Nature and Science
 # Nature
 []() 
+[25.04 - Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7)  
 [25.04 - Towards accurate differential diagnosis with large language models](https://www.nature.com/articles/s41586-025-08869-4)  
 [25.01 - Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)  
 [24.06 - Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)  
