@@ -21,6 +21,7 @@ AI publication at Nature and Science
 [24.05 - A vision chip with complementary pathways for open-world sensing](https://www.nature.com/articles/s41586-024-07358-4)  
 [24.05 - Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)  
 [24.05 - ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding](https://www.nature.com/articles/s41597-024-03398-7)  
+[24.01 - Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)  
 [23.08 - Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)  
 [23.08 - Champion-level drone racing using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06419-4)  
 [23.08 - Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)  
