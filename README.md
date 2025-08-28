@@ -49,6 +49,7 @@ AI publication at Nature and Science
 
 # Science
 []()
+[25.08 - Predicting fusion ignition at the National Ignition Facility with physics-informed deep learning](https://www.science.org/doi/10.1126/science.adm8201)
 [24.02 - Grounded language acquisition through the eyes and ears of a single child](https://www.science.org/doi/10.1126/science.adi1374)  
 [23.11 - Prediction-powered inference](https://www.science.org/doi/10.1126/science.adi6000)  
 [22.12 - Competition-level code generation with AlphaCode](https://www.science.org/doi/10.1126/science.abq1158)  
