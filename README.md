@@ -6,6 +6,7 @@ AI publication at Nature and Science
 [25.06 - An instantaneous voice-synthesis neuroprosthesis](https://www.nature.com/articles/s41586-025-09127-3)<br>
 [25.06 - Physical restoration of a painting with a digitally constructed mask](https://www.nature.com/articles/s41586-025-09045-4)<br> 
 [25.06 - Multi-timescale reinforcement learning in the brain](https://www.nature.com/articles/s41586-025-08929-9)<br> 
+[25.04 - Mastering diverse control tasks through world models](https://www.nature.com/articles/s41586-025-08744-2)  
 [25.04 - Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7)  
 [25.04 - Towards accurate differential diagnosis with large language models](https://www.nature.com/articles/s41586-025-08869-4)  
 [25.03 - Optimizing generative AI by backpropagating language model feedback](https://www.nature.com/articles/s41586-025-08661-4)<br>
