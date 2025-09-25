@@ -1,6 +1,7 @@
 # AI-Nature-Science
 AI publication at Nature and Science
 # Nature
+
 [25.09 - DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://www.nature.com/articles/s41586-025-09422-z)<br>
 [25.08 - Optical generative models](https://www.nature.com/articles/s41586-025-09446-5)<br>
 [25.07 - The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9)<br>
@@ -13,6 +14,7 @@ AI publication at Nature and Science
 [25.04 - Towards accurate differential diagnosis with large language models](https://www.nature.com/articles/s41586-025-08869-4)  
 [25.03 - Optimizing generative AI by backpropagating language model feedback](https://www.nature.com/articles/s41586-025-08661-4)<br>
 [25.01 - Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)<br> 
+[24.12 - Probabilistic weather forecasting with machine learning](https://www.nature.com/articles/s41586-024-08252-9)  
 [24.06 - Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)  
 [24.06 - Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)  
 [24.06 - Multimodal fusion for anticipating human decision performance](https://www.nature.com/articles/s41598-024-63651-2)  
