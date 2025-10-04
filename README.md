@@ -2,6 +2,7 @@
 AI publication at Nature and Science
 # Nature
 [25.10 - Heat-rechargeable computation in DNA logic circuits and neural networks](https://www.nature.com/articles/s41586-025-09570-2)<br>
+[25.09 - Supervised learning in DNA neural networks]([)](https://www.nature.com/articles/s41586-025-09479-w)<br>
 [25.09 - DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://www.nature.com/articles/s41586-025-09422-z)<br>
 [25.08 - Optical generative models](https://www.nature.com/articles/s41586-025-09446-5)<br>
 [25.07 - The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9)<br>
