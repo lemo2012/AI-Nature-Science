@@ -1,6 +1,7 @@
 # AI-Nature-Science
 AI publication at Nature and Science
 # Nature
+[25.10 - Discovering state-of-the-art reinforcement learning algorithms](https://www.nature.com/articles/s41586-025-09761-x)<br>
 [25.10 - Heat-rechargeable computation in DNA logic circuits and neural networks](https://www.nature.com/articles/s41586-025-09570-2)<br>
 [25.09 - Supervised learning in DNA neural networks](https://www.nature.com/articles/s41586-025-09479-w)<br>
 [25.09 - Learning the natural history of human disease with generative transformers](https://www.nature.com/articles/s41586-025-09529-3)<br>
