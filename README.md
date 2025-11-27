@@ -1,6 +1,7 @@
 # AI-Nature-Science
 AI publication at Nature and Science
 # Nature
+[25.11 - Semantic design of functional de novo genes from a genomic language model](https://www.nature.com/articles/s41586-025-09749-7)<br>
 [25.11 - Aligning machine and human visual representations across abstraction levels](https://www.nature.com/articles/s41586-025-09631-6)<br>
 [25.11 - Olympiad-level formal mathematical reasoning with reinforcement learning](https://www.nature.com/articles/s41586-025-09833-y)<br>
 [25.10 - Discovering state-of-the-art reinforcement learning algorithms](https://www.nature.com/articles/s41586-025-09761-x)<br>
